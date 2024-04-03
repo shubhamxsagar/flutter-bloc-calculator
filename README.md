@@ -1,6 +1,6 @@
 # calculator with Bloc(Cubit)
 
-<img src="https://github.com/shubhamxsagar/flutter-bloc-calculator/assets/72368658/6c3a6092-5828-4642-abd1-6125f08f09fa" width="300" height="500" />
+<img src="https://github.com/shubhamxsagar/flutter-bloc-calculator/assets/72368658/6c3a6092-5828-4642-abd1-6125f08f09fa" width="300" height="700" />
 
 
 
