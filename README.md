@@ -1,4 +1,7 @@
-# calculator
+# calculator with Bloc(Cubit)
+
+![WhatsApp Image 2024-04-04 at 01 43 42_4d98bdf4](https://github.com/shubhamxsagar/flutter-bloc-calculator/assets/72368658/6c3a6092-5828-4642-abd1-6125f08f09fa)
+
 
 A new Flutter project.
 
